@@ -1,0 +1,7 @@
+{
+  "name": "خاشع - Khashi'",
+  "description": "تطبيق إسلامي بسيط لمتابعة الصلوات اليومية والخشوع بروح من الرحمة واليسر.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
